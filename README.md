@@ -7,7 +7,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(64--bit)-0284C7)](https://github.com/tonychen5577-tech/gear-acoustic-releases)
 [![License](https://img.shields.io/badge/License-Commercial%20%2F%20Free%20Evaluation-059669)](https://github.com/tonychen5577-tech/gear-acoustic-releases)
 [![Architecture](https://img.shields.io/badge/Architecture-x86__64%20Native-334155)](https://github.com/tonychen5577-tech/gear-acoustic-releases)
-[![OTA](https://img.shields.io/badge/Cloud%20OTA-Silent%20Auto--Update-38BDF8)](https://gear.ansv.net)
+[![OTA](https://img.shields.io/badge/Cloud%20OTA-Silent%20Auto--Update-38BDF8)](https://ansv.net)
 
 <p align="center">
   <b>专为精密减速器、车载微型执行器、工业齿轮箱及旋转机械量身打造的软硬件一体化声学与振动智能诊断工作站</b>
@@ -179,9 +179,9 @@
 
 如果您对 **Gear-Acoustic 智能诊断系统** 感兴趣，或希望在企业产线、非标自动化台架中申请试用、采购授权或进行定制化算法接口集成，欢迎通过以下渠道与我们联系：
 
-- **官方网站 / 在线支持**：[https://gear.ansv.net](https://gear.ansv.net)
+- **官方网站 / 在线支持**：[https://ansv.net](https://ansv.net)
 - **GitHub 官方发布仓库**：[tonychen5577-tech/gear-acoustic-releases](https://github.com/tonychen5577-tech/gear-acoustic-releases)
-- **技术支持与商务合作邮箱**：`support@ansv.net` / `tonychen5577@gmail.com`
+- **技术支持与商务合作邮箱**：`support@ansv.net`
 - **商务微信 / 微信联系**：*（请在邮件中备注您的公司名称、主要产品品类与拟检测异音现象，我们将在 24 小时内为您开通专属快速响应通道）*
 
 ---
